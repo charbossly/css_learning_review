@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Awesome font";
+    src: url('../fonts/reey-regular-webfont.woff2');
+}
+
+h2 {
+    font-family: 'Awesome font';
+}
